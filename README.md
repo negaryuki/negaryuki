@@ -1,6 +1,6 @@
 ![Profile Picture](https://github.com/negaryuki/negaryuki/blob/e5de1111cd7aaa55100c5e664436a6d4253568fe/Media/IMG_0305.jpeg)
 
-## Contact Me 📫 ![Alt Text](IMG_0308.gif)
+## Contact Me 📫 ![Alt Text](Media/IMG_0308.gif)
 
 You can reach out to me through the following platforms:
 
