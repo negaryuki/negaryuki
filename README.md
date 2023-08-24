@@ -1,6 +1,13 @@
 ![Profile Picture](https://github.com/negaryuki/negaryuki/blob/e5de1111cd7aaa55100c5e664436a6d4253568fe/Media/IMG_0305.jpeg)
 
+## Contact Me 📫
 
+You can reach out to me through the following platforms:
+
+- [![Twitter](https://img.shields.io/twitter/follow/negar_norouzi?style=social)](https://twitter.com/negar_norouzi)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-negar--norouzi-blue)](https://www.linkedin.com/in/negar-norouzi)
+- [![Email](https://img.shields.io/badge/Email-negar.norouzi94%40gmail.com-red)](mailto:negar.norouzi94@gmail.com)
+- 
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=negaryuki&show_icons=true&theme=radical)
