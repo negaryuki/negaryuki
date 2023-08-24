@@ -6,6 +6,8 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=negaryuki&show_icons=true&theme=radical)
 
 
+![Cute Visitors](https://badgen.net/badge/cute/%E2%99%A5/pink?icon=github&label=Visitors&color=ffa3a3)
+
 ## Visitor Counter
 
 ![Visitor Counter](URL_TO_VISITOR_COUNTER_IMAGE)
